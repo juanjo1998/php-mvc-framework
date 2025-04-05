@@ -1,0 +1,15 @@
+{
+  "name": "j2dev/structure",
+  "autoload": {
+    "psr-4": {
+      "app\\": "./"
+    }
+  },
+  "authors": [
+    {
+      "name": "juanjo1998",
+      "email": "juanjosr98@gmail.com"
+    }
+  ],
+  "require": {}
+}
